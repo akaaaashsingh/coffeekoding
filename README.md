@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with how to make a brownie
 - 💬 Ask me about the crazy JavaScript
 - 📫 How to reach me: invite me to a JavaScript project
-- ⚡ Fun fact: Your salary is your bribe to not pursue your dreams think wisely
+- ⚡ Fun fact: Your salary is your bribe to not pursue your dreams, think wisely
 
 ## Where are you?
  ```
@@ -25,3 +25,12 @@ life easier in some or other way
 ## What I have before you leave?
 
    Always prepare [these](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/) questions for JS interviews
+
+## Let's collabarate?
+   
+   Ph.: +91-8085549208
+   Email: 1311akashsingh@gmail.com
+   
+## Into social services?
+  
+   Donations are appreciated for animals & children welfare club
