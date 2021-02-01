@@ -24,5 +24,5 @@ life easier in some or other way
 
 ## What I have before you leave?
 ```
-Always prepare [these](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/) questions for JS interviews
+Always prepare ``` [these](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/) ``` questions for JS interviews
 ```
