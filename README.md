@@ -34,4 +34,4 @@ life easier in some or other way
    
 ## Into social services?
   
-   Donations are appreciated for animals & children welfare club
+   Donations are appreciated for animals & children welfare club: Donate [here](https://donorbox.org/animokids-a-shelter-for-everyone-fundraising-campaign)
